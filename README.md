@@ -62,11 +62,11 @@ The dashboard enables stakeholders to monitor key performance indicators (KPIs) 
 - Monthly sales trends help identify peak and low-performing periods.
 
 ---
-
 ## 📂 Dashboard Preview
 
-![Mobile Sales Dashboard](Mobile Sales Data Dashboard.png)
-
+<p align="center">
+  <img src="Mobile%20Sales%20Data%20Dashboard.png" alt="Mobile Sales Dashboard" width="1000">
+</p>
 ---
 
 ## 🚀 Skills Demonstrated

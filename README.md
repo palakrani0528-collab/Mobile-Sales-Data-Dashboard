@@ -65,7 +65,7 @@ The dashboard enables stakeholders to monitor key performance indicators (KPIs) 
 
 ## 📂 Dashboard Preview
 
-![Mobile Sales Dashboard](dashboard.png)
+![Mobile Sales Dashboard](Mobile Sales Data Dashboard.png)
 
 ---
 
